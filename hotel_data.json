@@ -1,0 +1,50 @@
+{
+    "hotel_name": "Farhan's Hotel",
+    "address": "123 Oceanfront Drive, Miami Beach, FL 33139",
+    "contact_info": {
+      "phone": "+1 305-555-1234",
+      "email": "contact@farhanshotel.com",
+      "website": "https://www.farhanshotel.com"
+    },
+    "description": "A luxurious beachfront hotel offering stunning ocean views, world-class amenities, and exceptional service.",
+    "rooms": [
+      {
+        "type": "Standard Room",
+        "description": "A cozy room with one queen-sized bed, ideal for solo travelers or couples.",
+        "price_per_night": 150,
+        "amenities": ["Free WiFi", "Flat-screen TV", "Air conditioning", "Mini fridge"]
+      },
+      {
+        "type": "Deluxe Room",
+        "description": "Spacious room with a king-sized bed and a balcony with ocean views.",
+        "price_per_night": 250,
+        "amenities": ["Free WiFi", "Flat-screen TV", "Air conditioning", "Mini fridge", "Balcony with ocean view"]
+      },
+      {
+        "type": "Suite",
+        "description": "A large suite with a separate living area, perfect for families or extended stays.",
+        "price_per_night": 400,
+        "amenities": ["Free WiFi", "Flat-screen TV", "Air conditioning", "Mini fridge", "Living room area", "Kitchenette"]
+      }
+    ],
+    "facilities": [
+      "Outdoor swimming pool",
+      "Fitness center",
+      "Spa and wellness center",
+      "24-hour concierge",
+      "On-site restaurant and bar",
+      "Business center"
+    ],
+    "policies": {
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation": "Free cancellation up to 24 hours before check-in.",
+      "pets": "Pets are allowed with an additional fee."
+    },
+    "nearby_attractions": [
+      {"name": "Miami Beach", "distance": "0.1 miles"},
+      {"name": "Ocean Drive", "distance": "0.3 miles"},
+      {"name": "Art Deco Historic District", "distance": "0.5 miles"}
+    ]
+  }
+  
